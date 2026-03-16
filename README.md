@@ -2,7 +2,7 @@
 
 English | [简体中文](https://github.com/alibabacloud-automation/terraform-alicloud-apig/blob/main/README-CN.md)
 
-Terraform module which creates APIG resources on Alibaba Cloud. This module supports creating APIG gateway, HTTP API, and environment configurations to help you quickly build and manage API gateway services. For more information about API Gateway, see [API Gateway Product Documentation](https://www.aliyun.com/product/apigateway).
+Terraform module which creates APIG resources on Alibaba Cloud. This module supports creating APIG gateway, HTTP API, and environment configurations to help you quickly build and manage API gateway services. 
 
 ## Usage
 

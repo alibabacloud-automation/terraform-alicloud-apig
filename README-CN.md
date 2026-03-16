@@ -2,7 +2,7 @@
 
 [English](https://github.com/alibabacloud-automation/terraform-alicloud-apig/blob/main/README.md) | 简体中文
 
-在阿里云上创建 APIG 资源的 Terraform 模块。此模块支持创建 APIG 网关、HTTP API 和环境配置，帮助您快速构建和管理 API 网关服务。有关 API 网关的更多信息，请参阅 [API 网关产品文档](https://www.aliyun.com/product/apigateway)。
+在阿里云上创建 APIG 资源的 Terraform 模块。此模块支持创建 APIG 网关、HTTP API 和环境配置，帮助您快速构建和管理 API 网关服务。
 
 ## 使用方法
 
